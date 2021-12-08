@@ -1,2 +1,2 @@
-# Matrix-Esparsa-Java---LPOO
-Trabalho em que é implementada uma matrix esparsa em java para a matéria de LPOO. FACOM - UFMS.
+# Matrix Esparsa em Java
+Implementação de um software que realiza operações com matrizes normais e esparsas em java para a matéria de LPOO. FACOM - UFMS.
